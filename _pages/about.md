@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-# 👨‍💻 Vinay Rajput - Bioinformatics Analyst & Researcher 🌟  
-Welcome to my professional portfolio! I am **Vinay Rajput**, a dedicated **Bioinformatics Analyst & Researcher** specializing in **Next-Generation Sequencing (NGS) data analysis**, **metagenomics**, and **bioinformatics pipeline development**. My passion lies in leveraging **computational biology** and advanced analytics to address challenges in **precision medicine**, **microbial ecology**, and **environmental genomics**.  
+# 💻 Vinay Rajput | Bioinformatics Analyst & Researcher 🧬
+
+Welcome to my professional portfolio! 🎉 I am **Vinay Rajput**, a dedicated **Bioinformatics Analyst & Researcher** specializing in **Next-Generation Sequencing (NGS) data analysis**, **metagenomics**, and **bioinformatics pipeline development**. My passion lies in leveraging **computational biology** and **advanced analytics** to address complex challenges in **precision medicine**, **microbial ecology**, and **environmental genomics**. 🌍🧬  
+
+Currently, I am pursuing a **Ph.D. in Bioinformatics** at [**CSIR-National Chemical Laboratory**](https://www.ncl-india.org), India 🇮🇳, where my research focuses on **genomic surveillance**, **antimicrobial resistance (AMR)**, and **exploring microbial communities** using **cutting-edge technologies** 🚀.  
 
 ---
-## 🎓 About Me  
-- **Ph.D. Candidate** at [CSIR-National Chemical Laboratory](https://www.ncl-india.org), India.  
-- Focused on **genomic surveillance**, **antimicrobial resistance (AMR)**, and microbial community exploration using **cutting-edge technologies**.  
-- Experienced in analyzing data from **Illumina** and **Oxford Nanopore** platforms.  
 
----
 ## 💻 Computational Skills  
 ### Programming Languages  
 - 🐍 **Python**  
@@ -44,8 +42,9 @@ Welcome to my professional portfolio! I am **Vinay Rajput**, a dedicated **Bioin
 - 🧩 **Molecular Docking**: AutoDock, PyMOL.
 
 ---
+
 ## 🏆 Research Interests  
-- **Antimicrobial Resistance (AMR)** surveillance using metagenomics.  
+- **Antimicrobial Resistance (AMR)**: Surveillance using metagenomics.  
 - **Cancer Genomics**: Studying somatic mutations and pathways.  
 - **RNA-Seq**: Differential expression and functional annotation.  
 - **Microbial Ecology**: Exploring microbial diversity in extreme environments.  
@@ -53,20 +52,32 @@ Welcome to my professional portfolio! I am **Vinay Rajput**, a dedicated **Bioin
 - **Molecular Docking**: Structure-based drug discovery.  
 
 ---
+
 ## 📚 Publications  
-- Featured in **reputed journals** on topics like:  
-  - **SARS-CoV-2 genomic surveillance**.  
-  - **Microbial ecology** and diversity studies.  
-  - **Antibiotic resistance dynamics** in various ecosystems.  
+I am a **published researcher** with works featured in **reputed journals**, highlighting topics such as:  
+- 🦠 **SARS-CoV-2 genomic surveillance**  
+- 🧬 **Microbial ecology**  
+- 💊 **Dynamics of antibiotic resistance** in diverse environments  
+
+Explore my publications on:  
+- [Google Scholar](https://scholar.google.com)  
+- [ResearchGate](https://www.researchgate.net)  
 
 ---
-## 🤝 Let’s Collaborate!  
-I offer **bioinformatics consultation** for:  
-- Custom **pipeline development**.  
-- Pathogen and variant **surveillance**.  
-- Advanced **data analysis** for genomics, metagenomics, and transcriptomics.
 
-📧 Feel free to reach out via email: [vinayrajput@example.com](mailto:vinayrajput@example.com).  
+## 🤝 Collaboration Opportunities  
+I provide **bioinformatics consultation** for research and industry projects, offering expertise in:  
+- 🔧 **Pipeline Development**  
+- 🦠 **Pathogen Surveillance**  
+- 🧬 **Metagenomic Analysis**  
+
+Let’s work together to uncover meaningful insights and drive advancements in **genomics** and beyond! 😊  
 
 ---
-😊 Let’s decode the secrets of life together! 🚀  
+
+## 📬 Contact Me  
+Feel free to connect with me:  
+- 📧 Email: **[srm.vinay0005@gmail.com](mailto:srm.vinay0005@gmail.com)**  
+- 💻 GitHub: **[github.com/yourusername](https://github.com/yourusername)**  
+
+Let’s decode the secrets of life together! 🧬✨
