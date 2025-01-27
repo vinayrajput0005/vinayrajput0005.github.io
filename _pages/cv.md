@@ -15,7 +15,7 @@ redirect_from:
 ## View or Download My CV
 You can view my CV below or [download it here](resume.pdf).
 
-<iframe src="files/CV_Vinay Rajput_ 2023_v2.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="CV_Vinay_Rajput_ 2023_v2.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 
 # Vinay Rajput
