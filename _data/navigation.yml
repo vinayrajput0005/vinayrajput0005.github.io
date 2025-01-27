@@ -13,8 +13,8 @@ main:
   - title: "Research"
     url: /research/    
 
-  - title: "Useful resources"
-    url: /handy-things/    
+ # - title: "Useful resources"
+ #   url: /handy-things/    
     
  # - title: "Blog Posts"
   #  url: /year-archive/
