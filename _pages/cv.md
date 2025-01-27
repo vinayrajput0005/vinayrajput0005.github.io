@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+<iframe src="files/CV_Vinay Rajput_ 2023_v2.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+
 # Vinay Rajput
 
 **Location**: Pune, India  
