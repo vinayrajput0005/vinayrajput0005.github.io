@@ -21,13 +21,13 @@ Throughout my career, I have gained 💾 proficiency in analyzing complex datase
 - **Computational Biology Tools**: 📂 Alignment Tools (DIAMOND, BWA, Bowtie2); 📜 Data Visualization (ggplot2, seaborn, Plotly); 📈 Statistical Analysis (DESeq2, edgeR); 🧩 Molecular Docking (AutoDock, PyMOL).
 
 ## 🏆 Research Interests
-- Antimicrobial Resistance (AMR): Surveillance using metagenomics.
-- Cancer Genomics: Studying somatic mutations and pathways.
-- RNA-Seq: Differential expression and functional annotation.
-- Microbial Ecology: Exploring microbial diversity in extreme environments.
-- Machine Learning: Predictive modeling for genomics and healthcare.
-- Molecular Docking: Structure-based drug discovery.
+- **Antimicrobial Resistance (AMR)**: Surveillance using metagenomics.
+- **Cancer Genomics**: Studying somatic mutations and pathways.
+- **RNA-Seq**: Differential expression and functional annotation.
+- **Microbial Ecology**: Exploring microbial diversity in extreme environments.
+- **Machine Learning**: Predictive modeling for genomics and healthcare.
+- **Molecular Docking**: Structure-based drug discovery.
 
 As a 📚 published researcher, I have contributed extensively to the scientific community, with works featured in reputed journals, highlighting topics such as 🦠 SARS-CoV-2 genomic surveillance, 🧬 microbial ecology, and 💊 the dynamics of antibiotic resistance in diverse environments. I also provide 🤝 bioinformatics consultation for research and industry projects, offering expertise in 🔧 pipeline development, 🦠 pathogen surveillance, and 🧬 metagenomic analysis.
 
-If you’re looking for a dedicated bioinformatics professional to collaborate on your research or industry project, I’d be delighted to connect! 😊 Together, we can uncover meaningful insights and drive advancements in genomics and beyond 🚀. Feel free to reach out to me via 📧 email at **[srm.vinay0005@gmail.com](mailto:srm.vinay0005@gmail.com)** or explore my work on **Google Scholar**, **ResearchGate**, and **GitHub**. Let’s decode the secrets of life together! 🧬✨
+If you’re looking for a dedicated bioinformatics professional to collaborate on your research or industry project, I’d be delighted to connect! 😊 Together, we can uncover meaningful insights and drive advancements in genomics and beyond 🚀. Feel free to reach out to me via 📧 email at **[srm.vinay0005@gmail.com](mailto:srm.vinay0005@gmail.com)** or explore my work on **[Google Scholar]**(https://scholar.google.com/citations?user=YnIqsiAAAAAJ&hl=en), **[ResearchGate]**(https://www.researchgate.net/profile/Vinay-Rajput-2), and **GitHub**(https://github.com/vinayrajput0005). Let’s decode the secrets of life together! 🧬✨
