@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;">
 Welcome to my professional portfolio! I am Vinay Rajput, a Bioinformatics analyst and researcher with specializing in Next-Generation Sequencing (NGS) data analysis, metagenomics, and bioinformatics pipeline development. My passion lies in leveraging computational biology and advanced analytics to address complex challenges in precision medicine, microbial ecology, and environmental genomics. 
 
 Currently pursuing a Ph.D. in Bioinformatics at [CSIR-National Chemical Laboratory](https://www.ncl-india.org), India, I focus on genomic surveillance, antimicrobial resistance (AMR), and exploring microbial communities using cutting-edge technologies.
@@ -17,3 +18,4 @@ Throughout my career, I have gained proficiency in analyzing complex datasets fr
 As a published researcher, I have contributed extensively to the scientific community with works featured in reputed journals. My publications highlight topics like SARS-CoV-2 genomic surveillance, microbial ecology, and the dynamics of antibiotic resistance in diverse environments. 
 
 I also provide bioinformatics consultation for research and industry projects, offering expertise in pipeline development, pathogen surveillance, and metagenomic analysis. If you are looking for a dedicated bioinformatics professional to collaborate on your research or industry project, I’d be delighted to connect. Let’s work together to uncover meaningful insights and drive advancements in genomics and beyond! Feel free to reach out to me via email at srm.vinay0005@gmail.com or explore my work on [Google Scholar](https://scholar.google.com/citations?user=YnIqsiAAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Vinay-Rajput-2), and [GitHub](https://github.com/vinayrajput0005).
+</div>
