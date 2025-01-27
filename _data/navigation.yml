@@ -10,11 +10,11 @@ main:
     #https://scholar.google.com/citations?user=YnIqsiAAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=YnIqsiAAAAAJ&hl=en
 
- # - title: "Research"
-  #  url: /research/    
+  - title: "Research"
+    url: /research/    
 
-  #- title: "Useful resources"
-  #  url: /handy-things/    
+  - title: "Useful resources"
+    url: /handy-things/    
     
  # - title: "Blog Posts"
   #  url: /year-archive/
