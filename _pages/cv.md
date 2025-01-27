@@ -12,9 +12,9 @@ redirect_from:
 # My CV
 
 ## View or Download My CV
-You can view my CV below or [download it here](https://drive.google.com/drive/folders/1sY1zehFOFNKSQOpQoMXmTrfDjjwAvMLY).
+You can view my CV below or [download it here](resume.pdf).
 
-<iframe src="https://drive.google.com/drive/folders/1sY1zehFOFNKSQOpQoMXmTrfDjjwAvMLY" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="resume.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 
 
