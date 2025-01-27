@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-
 # My CV
 
 ## View or Download My CV
-You can view my CV below or [download it here](CV_Vinay_Rajput_2023_v2.pdf).
+You can view my CV below or [download it here](https://vinayrajput0005.github.io/_pages/CV_Vinay_Rajput_2023_v2.pdf).
 
-<iframe src="CV_Vinay_Rajput_2023_v2.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="https://vinayrajput0005.github.io/_pages/CV_Vinay_Rajput_2023_v2.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 
 # Vinay Rajput
