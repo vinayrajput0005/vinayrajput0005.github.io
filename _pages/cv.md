@@ -9,14 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# My CV
-
-## View or Download My CV
-You can view my CV below or [download it here](https://vinayrajput0005.github.io/_pages/CV_Vinay_Rajput_2023_v2.pdf).
-
-<iframe src="https://vinayrajput0005.github.io/_pages/CV_Vinay_Rajput_2023_v2.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-
 # Vinay Rajput
 
 **Location**: Pune, India  
@@ -27,13 +19,11 @@ You can view my CV below or [download it here](https://vinayrajput0005.github.io
 **GitHub**: [https://github.com/vinayrajput0005](https://github.com/vinayrajput0005)  
 
 ---
-
 ## Summary
 
 Experienced bioinformatics Analyst specialized in NGS data analysis, proficient in Python and R, with a strong track record of delivering impactful insights from complex genomic datasets. Skilled in designing bioinformatics pipelines, applying statistical models, and collaborating with interdisciplinary teams to drive successful outcomes. Passionate about leveraging cutting-edge technologies to contribute to personalized medicine and precision healthcare.
 
 ---
-
 ## Research Experience
 
 **Senior Project Associate**  
@@ -61,7 +51,6 @@ _September 2018 – October 2018_
 **Supervisor**: Dr. Shrish Tiwari  
 
 ---
-
 ## Education
 
 - **Full Stack Data Science Program**, iNeuron-Bengaluru, Nov 2021 – November 2022  
@@ -71,7 +60,6 @@ _September 2018 – October 2018_
 - **Secondary Schooling**, Bhagatji Memorial Model Secondary School, Delhi (CGPA: 7.2), 2012  
 
 ---
-
 ## Research Projects
 
 - **Wastewater Surveillance of Covid-19 & Other Bacterial and Viral Pathogens** from Pune city under the One Health Approach (Funding: Rockefeller Foundation, USA & CSIR).
@@ -81,7 +69,6 @@ _September 2018 – October 2018_
 - **Whole Genome Sequencing of Ochrobactrum species** using Oxford Nanopore technology for genome assembly, gene prediction, and phylogenetic analysis.
 
 ---
-
 ## Professional Skills
 
 **Dry Lab**:
@@ -104,13 +91,11 @@ _September 2018 – October 2018_
 - Molecular Biology: DNA extraction, Amplification (PCR), Library Preparation.
 
 ---
-
 ## Area of Interest
 
 - Programming, Metagenomics, Single-Cell Genomics, Epigenetics, Cancer Genomics, Microbial Genomics, Bioinformatics Pipeline Development, Oxford Nanopore Sequencing.
 
 ---
-
 ## Publications
 
 1. **Samson, R., Rajput, V., Yadav, R., Shah, M., Dastager, S., Khairnar, K., Dharne, M.** (2023). Spatio-temporal variation of the microbiome and resistome repertoire along an anthropogenically dynamic segment of the Ganges River, India. *Science of The Total Environment*, 872, 162125. [DOI](https://doi.org/10.1016/j.scitotenv.2023.162125)
@@ -158,7 +143,6 @@ _September 2018 – October 2018_
 22. **Passari, A.K., Rajput, V., Zothanpuia, L.P.M.** (2020). Draft Genome Sequence of Plant Growth-Promoting Endophytic *Microbacterium hydrothermale* BPSAC84, Isolated from the Medicinal Plant *Mirabilis jalapa*. *Microbiology Resource Announcements*, 8(23), e00363-19.
 
 ---
-
 ## TRAININGS & CONFERENCES
 
 - 5-Days Industrial training at International Center for Genetic Engineering and Biotechnology (ICGEB), New-Delhi, India.
