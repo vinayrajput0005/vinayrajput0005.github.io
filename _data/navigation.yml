@@ -21,3 +21,6 @@ main:
     
   - title: "CV"
     url: /files/resume.pdf
+
+  - title: "Data Science"
+    url: /Datascience/ 
