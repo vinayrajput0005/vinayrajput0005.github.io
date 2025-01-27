@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Vinay Rajput"
+title                    : "Vinay Rajput, Homepage!"
 title_separator          : "-"
 name                     : &name "Vinay Rajput"
 description              : &description "Bioinformatician" # RL: I don't know where this actually appears
